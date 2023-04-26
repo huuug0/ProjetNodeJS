@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\config",
+    "\\src\\controllers",
+    "\\src\\helpers",
+    "\\src\\views",
+    "\\src\\views\\layouts",
+    "\\src\\views\\partials",
+    "\\src\\views\\taches",
+    "\\src\\views\\users"
+  ],
+  "SelectedNode": "\\src\\views\\index.hbs",
+  "PreviewInSolutionExplorer": false
+}
